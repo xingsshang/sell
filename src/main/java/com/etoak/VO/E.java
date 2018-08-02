@@ -8,5 +8,6 @@ package com.etoak.VO;
 public class E {
     public static void main(String[] args) {
            //哎呦这很好啊
+        System.out.println("这是我写的啊 xing_sshang");
     }
 }
