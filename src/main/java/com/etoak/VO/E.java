@@ -6,5 +6,7 @@ package com.etoak.VO;
  * @Date 2018/7/16
  */
 public class E {
+    public static void main(String[] args) {
 
+    }
 }
