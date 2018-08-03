@@ -8,6 +8,7 @@ package com.etoak.VO;
 public class E {
     public static void main(String[] args) {
            //哎呦这很好啊
-        System.out.println("哈哈进口量的设计费快乐圣诞节疯狂圣诞节哈");
+        System.out.println("写的不对啊!!!!!");
+        //我们的东西
     }
 }
