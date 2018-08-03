@@ -9,5 +9,6 @@ public class E {
     public static void main(String[] args) {
            //哎呦这很好啊
         System.out.println("写的不对啊");
+        //哈哈哈哈
     }
 }
